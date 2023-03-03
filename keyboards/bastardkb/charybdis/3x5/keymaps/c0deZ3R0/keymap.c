@@ -17,9 +17,6 @@
 
 #include QMK_KEYBOARD_H
 
-#include "c0deZ3R0.h"
-
-
 enum charybdis_keymap_layers {
     LAYER_BASE = 0,
     LAYER_LOWER,
